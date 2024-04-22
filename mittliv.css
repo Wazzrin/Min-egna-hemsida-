@@ -1,0 +1,23 @@
+button {
+    background-color: aqua;
+    border-radius: 50px;
+}
+
+
+body {
+
+    background-color: beige;
+}
+
+.row {
+    display: flex;
+
+}
+
+.image1 {
+    align-items: start;
+}
+
+.image2 {
+    align-items: end;
+}
